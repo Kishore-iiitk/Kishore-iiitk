@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kishore Kumar</h1>
 
 <h3 align="center">
-Full Stack Developer • AI Enthusiast • Aspiring Data Engineer
+Full Stack Developer • Aspiring Data Engineer
 </h3>
 
 <p align="center">
@@ -28,10 +28,9 @@ Full Stack Developer • AI Enthusiast • Aspiring Data Engineer
 
 - 💼 Full Stack Developer Intern at **Enginow**
 - 🚀 Building scalable backend systems and AI-powered applications
-- 🤖 Passionate about Artificial Intelligence, Backend Engineering and Data Engineering
+- 🤖 Passionate about Backend Engineering and Data Engineering
 - 🌱 Currently learning Apache Spark, Airflow, Docker and AWS
 - ⚡ Exploring distributed systems and cloud-native applications
-- ⚽ Football player who enjoys solving real-world engineering problems
 
 ---
 
@@ -173,10 +172,6 @@ REST APIs
 # 🏅 Achievements
 
 🥇 Winner — DevFusion 2.0 Hackathon
-
-🏅 Smart India Hackathon Participant
-
-🏅 Incubate 2025 Med-Tech Hackathon Participant
 
 ---
 
