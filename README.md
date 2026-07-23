@@ -1,4 +1,4 @@
-<h3 id="hi-there">Hi there 👋</h3>
+<h3 id="hi-there">Hi there!</h3>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px">
@@ -10,14 +10,13 @@
 <li> My name is Kishore Kumar S, a Full Stack Developer from Trichy, Tamil Nadu, India</li>
 <li> Currently studying B.Tech in Computer Science and Engineering at IIIT Kottayam</li>
 <li> Working as a Full Stack Developer Intern at Enginow — building backend APIs, auth systems, and REST services</li>
-<li>🔥 Passionate about backend engineering and transitioning into Data Engineering</li>
+<li> Passionate about backend engineering and transitioning into Data Engineering</li>
 </ul>
 
 <br>
 
-<p align="center" style="height: 180px;">
-    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=Kishore-iiitk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical">
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore-iiitk&theme=radical&show_icons=true&border=e4e2e2">
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Kishore-iiitk&theme=tokyonight&hide_border=true"/>
 </p>
 
 ![My GitHub Game](game.gif)
