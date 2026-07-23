@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Kishore-iiitk&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Kishore-iiitk&theme=tokyonight&hide_border=true&v=2"/>
 </p>
 
 ![My GitHub Game](game.gif)
