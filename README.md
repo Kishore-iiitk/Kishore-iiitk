@@ -15,10 +15,6 @@
 
 <br>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Kishore-iiitk&theme=tokyonight&hide_border=true&v=2"/>
-</p>
-
 ![My GitHub Game](game.gif)
 
 <br>
@@ -62,4 +58,5 @@ A modular Telegram bot providing Formula 1 schedules, standings, and race inform
 
 <hr>
 
-<p align="center">📫 Reach me at <a href="mailto:kishoreofficial182005@gmail.com">kishoreofficial182005@gmail.com</a></p>
+<p align="center"> Reach me at <a href="mailto:kishoreofficial182005@gmail.com">kishoreofficial182005@gmail.com</a></p>
+<p align="center"> <a href="https://www.linkedin.com/in/kishore-kumar-s-792737394/"> Let's connect on Linkedin! </a></p>
