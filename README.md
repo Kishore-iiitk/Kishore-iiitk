@@ -1,7 +1,7 @@
 <h3 id="hi-there">Hi there!</h3>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px">
+    <img src="./snow.gif">
 </div>
 
 <br>
@@ -58,5 +58,5 @@ A modular Telegram bot providing Formula 1 schedules, standings, and race inform
 
 <hr>
 
-<p align="center"> Reach me at <a href="mailto:kishoreofficial182005@gmail.com">kishoreofficial182005@gmail.com</a></p>
+<p align="center"> <a href="mailto:kishoreofficial182005@gmail.com">Mail me here.</a></p>
 <p align="center"> <a href="https://www.linkedin.com/in/kishore-kumar-s-792737394/"> Let's connect on Linkedin! </a></p>
