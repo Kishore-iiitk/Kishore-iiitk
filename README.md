@@ -15,6 +15,8 @@
 
 <br>
 
+![Stats](./profile/stats.svg)
+
 ![My GitHub Game](game.gif)
 
 <br>
