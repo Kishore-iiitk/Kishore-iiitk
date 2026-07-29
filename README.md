@@ -1,4 +1,4 @@
-<h3 id="hi-there">Hi there!</h3>
+<h3 id="hi-there">Hi there! I'am Kishore</h3>
 
 <div align="center">
     <img src="./snow.gif">
@@ -7,17 +7,24 @@
 <br>
 
 <ul>
-<li> My name is Kishore Kumar S, a Full Stack Developer from Trichy, Tamil Nadu, India</li>
+<li> I'am Kishore Kumar S, a Full Stack Developer from Trichy, Tamil Nadu, India</li>
 <li> Currently studying B.Tech in Computer Science and Engineering at IIIT Kottayam</li>
 <li> Working as a Full Stack Developer Intern at Enginow — building backend APIs, auth systems, and REST services</li>
 <li> Passionate about backend engineering and transitioning into Data Engineering</li>
 </ul>
 
-<br>
 
-![Stats](./profile/stats.svg)
 
 ![My GitHub Game](game.gif)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kishore-iiitk&theme=tokyonight&hide_border=true">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishore-iiitk&theme=github-dark&hide_border=true&radius=10" />
+</div>
+
 
 <br>
 
@@ -57,6 +64,8 @@ A modular Telegram bot providing Formula 1 schedules, standings, and race inform
 - Full Stack Web Development Bootcamp — Udemy
 
 <br>
+
+
 
 <hr>
 
